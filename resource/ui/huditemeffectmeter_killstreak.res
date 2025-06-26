@@ -132,8 +132,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"15"
-		"ypos"					"0"
+		"xpos"					"14"
+		"ypos"					"1"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"23"	
@@ -152,8 +152,8 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCountShadow"
-		"xpos"					"16"
-		"ypos"					"1"
+		"xpos"					"15"
+		"ypos"					"2"
 		"zpos"					"2"
 		"wide"					"40"
 		"tall"					"23"	
